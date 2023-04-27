@@ -19,8 +19,6 @@ class PixabayAdapter(val list: ArrayList<ImageModel>) :
                 parent,
                 false
             )
-
-
         )
     }
 
